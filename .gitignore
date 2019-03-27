@@ -50,7 +50,7 @@ bin/
 *.iml
 *.ipr
 *.iws
-.idea/
+.idea/*
 .svn/
 # Windows image file caches
 Thumbs.db
